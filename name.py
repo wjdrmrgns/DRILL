@@ -73,8 +73,3 @@ turtle.forward(25)
 turtle.left(90)
 turtle.forward(75)
 
-
-
-
-
-
