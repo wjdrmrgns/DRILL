@@ -1,5 +1,6 @@
 from pico2d import *
 from random import randint
+
 KPU_WIDTH, KPU_HEIGHT = 1280, 1024
 
 
@@ -45,6 +46,7 @@ while running:
     if count == 50:
         hand_x, hand_y = randint(0, 1280), randint(0, 1024)
         count = 0
+   
     #handle_events()
 
 close_canvas()
