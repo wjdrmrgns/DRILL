@@ -89,6 +89,7 @@ while running:
         Big.draw()
     update_canvas()
 
+
     delay(0.05)
 
 # finalization code
