@@ -10,7 +10,6 @@ class GameState:
 
 
 
-
 class TestGameState:
 
     def __init__(self, name):
